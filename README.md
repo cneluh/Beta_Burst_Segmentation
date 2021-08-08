@@ -1,7 +1,7 @@
 # Beta_Burst_Segmentation
-Non-dyadic Cosine Packet Based Adaptive Segmentation of Time-Varying Signal
+Non-dyadic Cosine Packet Based Adaptive Segmentation of Time-Varying Signals
 
-Download the Beta Burst Segmentation Toolbox and add the folder to Matlab Path
+Download the Beta Burst Segmentation Toolbox and add the folder to the Matlab Path
 
 Run Segmentation_Demo to replicate Fig.2 of the Manuscript
 
